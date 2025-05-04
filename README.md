@@ -9,12 +9,15 @@
 from eoq_calculator import calculate_eoq
 print(calculate_eoq(5000, 100, 2))  # → 707 units
 
-  AndreDavis-SCM → GitHub username
-  www.linkedin.com/in/andre-c-davis
+## 📦 Safety Stock Calculator
+```python
+from safety_stock import safety_stock
+print(safety_stock(20, 7))  # → 88 units  
 
 
 
 
 
 
-
+AndreDavis-SCM → GitHub username
+www.linkedin.com/in/andre-c-davis
